@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    background-color: rgba(32,33,36,1);
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.topnav{
+    background-color: #303134;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.main-menu{
+
+}
+
+.menu{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    float: right;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Ubuntu';
+    padding: 10px 14px;
+    margin-bottom: 20px;
+}
+.heading{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Ubuntu';
+    padding: 10px 14px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+.menu:hover {
+    background-color: rgba(255, 255, 255, 0.342);
+    border-radius: 20px;
+    transition: 0.4s all ease;
+}
+
+/* here we are done with our menu bar which is absolutely for beginners hope you like this video make sure you subscribe to our channel press the bell icon right to it and follow us anywhere you see in social media:) Thank you for watching this video ^_^ */
